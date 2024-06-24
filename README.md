@@ -1,5 +1,6 @@
 <h1>Hi, I'm DaMarcus!
-https://www.linkedin.com/in/damarcus-miles-130ba9315
+  
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
